@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: orangered;
+    padding: 10px;
+}
+
+.box{
+     background-color: lightgray;
+  padding: 20px;
+  margin-top: 20px;
+}
+#formtitle{
+    color: brown;   
+}
+
+ h1, h2{
+    text-align: center;
+}
